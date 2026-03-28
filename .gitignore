@@ -1,0 +1,26 @@
+# Виртуальное окружение
+.venv/
+
+# Секреты
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Данные (большие файлы)
+data/raw/
+
+# Сохранённые модели
+models/saved/
+
+# Логи
+logs/
+
+# PyCharm
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
