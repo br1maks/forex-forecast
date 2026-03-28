@@ -3,6 +3,9 @@
 
 # Секреты
 .env
+.env
+.env.txt
+.env.py
 
 # Python
 __pycache__/
